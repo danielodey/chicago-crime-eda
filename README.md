@@ -1,2 +1,2 @@
-# chicago-crime-eda
+# Chicago-Crime-EDA
 ![](chicagopd.webp)
