@@ -8,8 +8,10 @@ An exploratory data analysis is carried out using the chicago dataset to underst
 ## Problem Statement
 
 ## Technical Skills Demonstrated
-1. Cleaning the dataset
-2. Mapping using dictionaries
-3. Converting data types
-4. Creating visuals
-5. Importing libraries
+1. Handling missing values
+2. Dropping columns
+3. Creating new columns
+4. Mapping using dictionaries
+5. Converting data types
+6. Creating visuals
+7. Importing libraries
