@@ -7,7 +7,7 @@ An exploratory data analysis is carried out using the chicago dataset to underst
 The analysis was done using python package.
 
 ## Objectives of the Analysis
-The purpose of the project is to carry out an exploratory data analysis and we investigate;
+The purpose of the project is to carry out an exploratory data analysis and to investigate;
 1.	The top 10 crimes committed the most in Chicago.
 2.	The crimes committed by community name.
 3.	The trend in crime over the years.
