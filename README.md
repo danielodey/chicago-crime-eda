@@ -40,3 +40,7 @@ Chicago comprises of 77 communities, and based on our analysis, Austin reported 
 
 We conducted an examination of criminal activities across various days of the week. Our analysis indicated that while there isn't a significant difference among the number of crimes, Fridays accounted for the highest frequency of incidents, while Sundays was the least. 
 Additionally, we explored the types of crimes occurring in 2022, observing that theft remained the most prevalent, consistent with the findings from our analysis of the entire dataset. However, noted that public indecency emerged as the least occurring crime in 2022, which is different from the overall analysis of the dataset.
+
+
+## Conclusion and Recommendations
+
