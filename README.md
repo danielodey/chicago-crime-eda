@@ -42,5 +42,8 @@ We conducted an examination of criminal activities across various days of the we
 Additionally, we explored the types of crimes occurring in 2022, observing that theft remained the most prevalent, consistent with the findings from our analysis of the entire dataset. However, noted that public indecency emerged as the least occurring crime in 2022, which is different from the overall analysis of the dataset.
 
 
-## Conclusion and Recommendations
+## Recommendations
+1.It is advisable to prioritize street surveillance, considering that a significant portion of criminal activities occur in these areas.
+2. Given the notable incidence of crimes in proximity to the airport, it is imperative to develop and implement effective strategies to mitigate these occurrences, safeguarding the well-being of travellers.
+3. Chicago has experienced a substantial decline in crime rates over recent years. It is prudent to reinforce and further invest in the existing strategies that have contributed to this positive trend. 4.Recognizing exemplary performance among security personnel through commendations can serve as a catalyst for heightened motivation and continued success in crime prevention efforts.
 
