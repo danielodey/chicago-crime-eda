@@ -43,7 +43,7 @@ Additionally, we explored the types of crimes occurring in 2022, observing that 
 
 
 ## Recommendations
- 1.It is advisable to prioritize street surveillance, considering that a significant portion of criminal activities occur in these areas.
+1. It is advisable to prioritize street surveillance, considering that a significant portion of criminal activities occur in these areas.
 
 2. Given the notable incidence of crimes in proximity to the airport, it is imperative to develop and implement effective strategies to mitigate these occurrences, safeguarding the well-being of travellers.
 
